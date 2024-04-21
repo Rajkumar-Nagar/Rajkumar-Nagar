@@ -1,5 +1,6 @@
 # 💫 About Me:
- Hellow I am a Full Stack developer and App developer , i am passionate about technology 
+ I'm Rajkumar Nagar, a passionate full-stack web and app developer with 2 years of experience in creating dynamic and user-friendly application
+
 
 
 ## 🌐 Socials:
